@@ -1,6 +1,2 @@
 joao:senha123:2025-05-30
-maria:abc123:2025-06-15
-teste:teste123:2025-12-01
-oi:oi123:2025-12-20
-oi:oi1234:2025-06-13
-blackfung:black123:2m
+blackfung:black123:10h
